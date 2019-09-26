@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPRetrofit</string>
+    <string name="network_error">No network found, please try again later.</string>
+    <string name="generic_error">Something went wrong, please try again later.</string>
+</resources>
